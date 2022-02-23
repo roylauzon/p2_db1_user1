@@ -3,7 +3,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 CREATE TABLE [dbo].[Table_3](
-	[id_fea3] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL
+	[id_feature1] [nchar](10) COLLATE SQL_Latin1_General_CP1_CI_AS NULL
 )
 
 GO
